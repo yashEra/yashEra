@@ -81,7 +81,7 @@
 
 <!--START_SECTION:PROFILE-TROPHY-->
 <div align = "center">
-    <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
+    <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=5&column=-4" alt = "yashEra"/> 
 </div>
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
