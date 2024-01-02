@@ -7,59 +7,58 @@
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = center> 🌱 I'm currently learning React JS , Java , Flutter , Django , Next.js, Ai</p>***
+***<p align = center>🌱 I'm currently learning React JS , Java , Flutter , Django , Next.js, Ai</p>***
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
 ## <p align = left> 🖥️ 	Tech Stack </p>
 <div align = left>
-<img src="https://img.shields.io/badge/c-%23555555.svg?style=flat&logo=c&logoColor=white" alt=c /> &ensp;
-<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=flat&logo=css3&logoColor=white" alt=css3 /> &ensp;
-<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=java /> &ensp;
-<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript /> &ensp;
-<img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat&logo=php&logoColor=white" alt=php /> &ensp;
-<img src="https://img.shields.io/badge/python-%233572A5.svg?style=flat&logo=python&logoColor=white" alt=python /> &ensp;
-<img src="https://img.shields.io/badge/typescript-%233178c6.svg?style=flat&logo=typescript&logoColor=white" alt=typescript /> &ensp;
-<img src="https://img.shields.io/badge/react-%2361dbfb.svg?style=flat&logo=react&logoColor=white" alt=react /> &ensp;
-<img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat&logo=bootstrap&logoColor=white" alt=bootstrap /> &ensp;
-<img src="https://img.shields.io/badge/tailwindcss-%233fb3e0.svg?style=flat&logo=tailwindcss&logoColor=white" alt=tailwindcss /> &ensp;
-<img src="https://img.shields.io/badge/node.js-%233c873a.svg?style=flat&logo=node.js&logoColor=white" alt=node.js /> &ensp;
-<img src="https://img.shields.io/badge/express-%23626361.svg?style=flat&logo=express&logoColor=white" alt=express /> &ensp;
-<img src="https://img.shields.io/badge/android-%2332DE84.svg?style=flat&logo=android&logoColor=white" alt=android /> &ensp;
-<img src="https://img.shields.io/badge/flutter-%2342A5F5.svg?style=flat&logo=flutter&logoColor=white" alt=flutter /> &ensp;
-<img src="https://img.shields.io/badge/mongodb-%234db33d.svg?style=flat&logo=mongodb&logoColor=white" alt=mongodb /> &ensp;
-<img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=flat&logo=mysql&logoColor=white" alt=mysql /> &ensp;
-<img src="https://img.shields.io/badge/microsoft sql server-%23cc1d1d.svg?style=flat&logo=microsoft sql server&logoColor=white" alt=microsoft sql server /> &ensp;
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" alt=django /> &ensp;
-<img src="https://img.shields.io/badge/firebase-%23FFA000.svg?style=flat&logo=firebase&logoColor=white" alt=firebase /> &ensp;
-<img src="https://img.shields.io/badge/next.js-%23262526.svg?style=flat&logo=next.js&logoColor=white" alt=next.js /> &ensp;
-<img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=flat&logo=arduino&logoColor=white" alt=arduino /> &ensp;
-<img src="https://img.shields.io/badge/adobe illustrator-%23bfb034.svg?style=flat&logo=adobe illustrator&logoColor=white" alt=adobe illustrator /> &ensp;
-<img src="https://img.shields.io/badge/adobe photoshop-%2318152E.svg?style=flat&logo=adobe photoshop&logoColor=white" alt=adobe photoshop /> &ensp;
-<img src="https://img.shields.io/badge/adobe xd-%2346034a.svg?style=flat&logo=adobe xd&logoColor=white" alt=adobe xd /> &ensp;
-<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat&logo=figma&logoColor=white" alt=figma /> &ensp;
-<img src="https://img.shields.io/badge/sketch-%23f9a52c.svg?style=flat&logo=sketch&logoColor=white" alt=sketch /> &ensp;
-<img src="https://img.shields.io/badge/framer-%23026396.svg?style=flat&logo=framer&logoColor=white" alt=framer /> &ensp;
-<img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat&logo=canva&logoColor=white" alt=canva /> &ensp;
-<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
+<img src="https://img.shields.io/badge/c-%23555555.svg?style=flat-square&logo=c&logoColor=white" alt=c /> &ensp;
+<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=flat-square&logo=html5&logoColor=white" alt=html5 /> &ensp;
+<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat-square&logo=java&logoColor=white" alt=java /> &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat-square&logo=javascript&logoColor=white" alt=javascript /> &ensp;
+<img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat-square&logo=php&logoColor=white" alt=php /> &ensp;
+<img src="https://img.shields.io/badge/python-%233572A5.svg?style=flat-square&logo=python&logoColor=white" alt=python /> &ensp;
+<img src="https://img.shields.io/badge/react-%2361dbfb.svg?style=flat-square&logo=react&logoColor=white" alt=react /> &ensp;
+<img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat-square&logo=bootstrap&logoColor=white" alt=bootstrap /> &ensp;
+<img src="https://img.shields.io/badge/tailwindcss-%233fb3e0.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt=tailwindcss /> &ensp;
+<img src="https://img.shields.io/badge/node.js-%233c873a.svg?style=flat-square&logo=node.js&logoColor=white" alt=node.js /> &ensp;
+<img src="https://img.shields.io/badge/express-%23626361.svg?style=flat-square&logo=express&logoColor=white" alt=express /> &ensp;
+<img src="https://img.shields.io/badge/android-%2332DE84.svg?style=flat-square&logo=android&logoColor=white" alt=android /> &ensp;
+<img src="https://img.shields.io/badge/flutter-%2342A5F5.svg?style=flat-square&logo=flutter&logoColor=white" alt=flutter /> &ensp;
+<img src="https://img.shields.io/badge/mongodb-%234db33d.svg?style=flat-square&logo=mongodb&logoColor=white" alt=mongodb /> &ensp;
+<img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=flat-square&logo=mysql&logoColor=white" alt=mysql /> &ensp;
+<img src="https://img.shields.io/badge/microsoft sql server-%23cc1d1d.svg?style=flat-square&logo=microsoft sql server&logoColor=white" alt=microsoft sql server /> &ensp;
+<img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat-square&logo=django&logoColor=white" alt=django /> &ensp;
+<img src="https://img.shields.io/badge/firebase-%23FFA000.svg?style=flat-square&logo=firebase&logoColor=white" alt=firebase /> &ensp;
+<img src="https://img.shields.io/badge/next.js-%23262526.svg?style=flat-square&logo=next.js&logoColor=white" alt=next.js /> &ensp;
+<img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=flat-square&logo=arduino&logoColor=white" alt=arduino /> &ensp;
+<img src="https://img.shields.io/badge/adobe illustrator-%23bfb034.svg?style=flat-square&logo=adobe illustrator&logoColor=white" alt=adobe illustrator /> &ensp;
+<img src="https://img.shields.io/badge/adobe photoshop-%2318152E.svg?style=flat-square&logo=adobe photoshop&logoColor=white" alt=adobe photoshop /> &ensp;
+<img src="https://img.shields.io/badge/adobe xd-%2346034a.svg?style=flat-square&logo=adobe xd&logoColor=white" alt=adobe xd /> &ensp;
+<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat-square&logo=figma&logoColor=white" alt=figma /> &ensp;
+<img src="https://img.shields.io/badge/sketch-%23f9a52c.svg?style=flat-square&logo=sketch&logoColor=white" alt=sketch /> &ensp;
+<img src="https://img.shields.io/badge/framer-%23026396.svg?style=flat-square&logo=framer&logoColor=white" alt=framer /> &ensp;
+<img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat-square&logo=canva&logoColor=white" alt=canva /> &ensp;
+<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat-square&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
 <!--START_SECTION:SOCIAL-->
-## <p align = center> 🌏 	Connect with me </p>
-<div align = center>
-<a href=https://facebook.com/yash.era1998 ><img src="https://img.shields.io/badge/facebook-yash.era1998-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
+## <p align = left> 🌏 	Connect with me </p>
+<div align = left>
+<a href=https://facebook.com/yash.era1998 ><img src="https://img.shields.io/badge/facebook-yash.era1998-%230165E1.svg?style=flat-square&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
-<a href=https://instagram.com/__yash__er__ ><img src="https://img.shields.io/badge/instagram-__yash__er__-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
+<a href=https://instagram.com/__yash__er__ ><img src="https://img.shields.io/badge/instagram-__yash__er__-%23E1306C.svg?style=flat-square&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
-<a href=https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara ><img src="https://img.shields.io/badge/linkedin-yasith--eranda--yapa--amarasekara-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
+<a href=https://www.linkedin.com/in/yasith-eranda-yapa-amarasekara ><img src="https://img.shields.io/badge/linkedin-yasith--eranda--yapa--amarasekara-%230072b1.svg?style=flat-square&logo=linkedin&logoColor=white" 
                 alt=linkedin /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
 
 <!--START_SECTION:README-STATS-->
 <div align = "left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=yashEra&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt = "yashEra"/> 
+    <img src = "https://github-readme-stats.vercel.app/api?username=yashEra&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt = "yashEra"/> 
 </div>
 <!--END_SECTION:README-STATS--><br/>
 
@@ -77,12 +76,9 @@
 
 <!--START_SECTION:PROFILE-TROPHY-->
 <div align = "left">
-    <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=onedark&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
+    <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=nord&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
 </div>
 <!--END_SECTION:PROFILE-TROPHY--><br/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <!-- Created with CreateME profile readme generator-->
