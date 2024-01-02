@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
-### <p align = center>A passionate frontend developer from Sri Lanka</p>
+###<!-- <p align = center>A passionate frontend developer from Sri Lanka</p> -->
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
@@ -87,8 +87,8 @@
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
-<!--START_SECTION:waka
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)-->
+<!--START_SECTION:waka-->
+<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2020%20mins-blue)
 
