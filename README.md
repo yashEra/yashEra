@@ -7,7 +7,7 @@
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = center>🌱 I'm currently learning React JS , Java , Flutter , Django , Next.js, Ai</p>***
+***<p align = center>🌱 I'm currently learning React JS, Java, Flutter, Django, Next.js, Ai/ML</p>***
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
@@ -83,6 +83,8 @@
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
 </div>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="kavindu-mane" /></p>
+
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
