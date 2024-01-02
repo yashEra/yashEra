@@ -62,20 +62,34 @@
 <!--END_SECTION:PROFILE-VIEWS--><br/>
 
 <!--START_SECTION:README-STATS-->
+<div align="center">
+    <table>
+        <tr>
+            <td align="right">
 <div align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=yashEra&show_icons=true&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt = "yashEra"/> 
 </div>
+            </td>
+            <td rowspan="2">
 <!--END_SECTION:README-STATS--><br/>
 
 <!--START_SECTION:README-STATS-LANGUAGES-->
 <div align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yashEra&langs_count=8&theme=blueberry&hide_border=false" alt = "yashEra"/> 
 </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
 <!--END_SECTION:README-STATS-LANGUAGES--><br/>
 
 <!--START_SECTION:STREAK-STATS-->
 <div align = "center">
     <img src = "https://streak-stats.demolab.com/?user=yashEra&theme=blueberry&hide_border=true" alt = "yashEra"/> 
+</div>
+            </td>
+        </tr>
+    </table>
 </div>
 <!--END_SECTION:STREAK-STATS--><br/>
 
