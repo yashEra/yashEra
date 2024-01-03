@@ -7,7 +7,7 @@
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
-***<p align = center>🌱 I'm currently learning React JS, Java, Flutter, Django, Next.js, Ai/ML</p>***
+***<p align = center>🌱 I'm currently learning React JS, Java, Flutter, Django, Next.js, AI/ML</p>***
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
