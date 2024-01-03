@@ -102,14 +102,17 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-<!--![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 490.1 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2024
+> 🏆 26 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -117,6 +120,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                178 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌆 Daytime                223 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
+🌃 Evening                178 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌙 Night                  118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   196 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Wednesday                83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Thursday                 60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Sunday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,7 +176,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2024 18:34:21 UTC
+ Last Updated on 03/01/2024 18:34:29 UTC
 <!--END_SECTION:waka-->
 
 
