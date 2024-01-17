@@ -108,7 +108,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 489.9 kB Used in GitHub's Storage 
+> 📦 490.0 kB Used in GitHub's Storage 
  > 
 > 🏆 52 Contributions in the Year 2024
  > 
@@ -174,7 +174,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2024 18:35:09 UTC
+ Last Updated on 17/01/2024 18:35:37 UTC
 <!--END_SECTION:waka-->
 
 
