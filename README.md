@@ -110,8 +110,6 @@
 
 > 📦 490.0 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -174,7 +172,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2024 18:35:58 UTC
+ Last Updated on 19/01/2024 18:35:30 UTC
 <!--END_SECTION:waka-->
 
 
