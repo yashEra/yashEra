@@ -110,8 +110,6 @@
 
 > 📦 727.6 kB Used in GitHub's Storage 
  > 
-> 🏆 775 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -182,7 +180,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:39:01 UTC
+ Last Updated on 14/06/2024 18:38:35 UTC
 <!--END_SECTION:waka-->
 
 
