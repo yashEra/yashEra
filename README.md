@@ -110,8 +110,6 @@
 
 > 📦 752.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,557 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -178,7 +176,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:43:01 UTC
+ Last Updated on 24/09/2024 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 
