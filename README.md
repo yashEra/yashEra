@@ -102,7 +102,7 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -143,17 +143,17 @@ Sunday                   384 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Git Config               2 mins              ███████████████░░░░░░░░░░   58.84 % 
-JavaScript               2 mins              ██████████░░░░░░░░░░░░░░░   41.16 % 
+JavaScript               28 mins             ███████████████████████░░   90.44 % 
+Git Config               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio-series-001     5 mins              █████████████████████████   100.00 % 
+portfolio-series-001     31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +173,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 18:42:52 UTC
+ Last Updated on 08/10/2024 18:42:39 UTC
 <!--END_SECTION:waka-->
 
 
