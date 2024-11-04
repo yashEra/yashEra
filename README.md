@@ -102,13 +102,15 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 798.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1,745 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -116,6 +118,46 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                397 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+🌆 Daytime                944 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                788 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌙 Night                  703 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Tuesday                  365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Thursday                 425 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Friday                   490 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Saturday                 395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+JavaScript               52 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  52 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+my-resume                52 mins             █████████████████████████   99.85 % 
+webease-backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+
+💻 Operating System: 
+Windows                  52 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -133,7 +175,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 18:41:48 UTC
+ Last Updated on 04/11/2024 18:42:55 UTC
 <!--END_SECTION:waka-->
 
 
