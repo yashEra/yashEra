@@ -110,8 +110,6 @@
 
 > 📦 798.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,745 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -145,17 +143,16 @@ Sunday                   384 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-resume                52 mins             █████████████████████████   99.85 % 
-webease-backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +172,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 18:42:45 UTC
+ Last Updated on 08/11/2024 18:42:38 UTC
 <!--END_SECTION:waka-->
 
 
