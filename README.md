@@ -102,7 +102,7 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -143,16 +143,18 @@ Sunday                   384 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               5 mins              ██████████████████░░░░░░░   70.03 % 
+Bash                     2 mins              ███████░░░░░░░░░░░░░░░░░░   29.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-resume                5 mins              ██████████████████░░░░░░░   70.03 % 
+webease-backend          2 mins              ███████░░░░░░░░░░░░░░░░░░   29.97 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +174,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 18:42:34 UTC
+ Last Updated on 13/11/2024 18:43:09 UTC
 <!--END_SECTION:waka-->
 
 
