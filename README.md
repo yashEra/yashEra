@@ -110,8 +110,6 @@
 
 > 📦 833.3 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -145,24 +143,16 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               38 mins             ███████████████░░░░░░░░░░   60.70 % 
-HTML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-TSConfig                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-test-app                 38 mins             ███████████████░░░░░░░░░░   61.93 % 
-my-angular-app           15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-practice                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-webease-shop             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-my-resume                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +172,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 18:40:31 UTC
+ Last Updated on 24/02/2025 18:45:07 UTC
 <!--END_SECTION:waka-->
 
 
