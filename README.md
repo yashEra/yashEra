@@ -145,16 +145,16 @@ Sunday                   391 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio-one-page       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +174,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:47:10 UTC
+ Last Updated on 21/03/2025 18:45:13 UTC
 <!--END_SECTION:waka-->
 
 
