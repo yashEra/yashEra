@@ -97,7 +97,7 @@
 <div align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=yashEra&theme=dracula&no-frame=false&no-bg=false&margin-w=2&column=-1" alt = "yashEra"/> 
 </div>-->
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=yashEra&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="kavindu-mane" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=yashEra&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="" /></p>
 
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
