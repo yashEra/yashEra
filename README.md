@@ -108,7 +108,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 953.4 kB Used in GitHub's Storage 
+> 📦 953.3 kB Used in GitHub's Storage 
  > 
 > 🏆 250 Contributions in the Year 2025
  > 
@@ -174,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 18:44:49 UTC
+ Last Updated on 09/11/2025 18:44:20 UTC
 <!--END_SECTION:waka-->
 
 
