@@ -102,6 +102,8 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -116,6 +118,45 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+🌆 Daytime                1068 commits        ████████░░░░░░░░░░░░░░░░░   30.95 % 
+🌃 Evening                1049 commits        ████████░░░░░░░░░░░░░░░░░   30.40 % 
+🌙 Night                  895 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Tuesday                  492 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Thursday                 479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   559 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Saturday                 497 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Sunday                   491 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -133,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:45:58 UTC
+ Last Updated on 17/11/2025 18:50:10 UTC
 <!--END_SECTION:waka-->
 
 
