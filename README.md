@@ -145,19 +145,16 @@ Sunday                   491 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-YAML                     1 hr 46 mins        ██████████████████░░░░░░░   71.27 % 
-Python                   42 mins             ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 31 mins        ███████████████░░░░░░░░░░   60.90 % 
-prc                      58 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2026 18:53:56 UTC
+ Last Updated on 07/01/2026 18:56:02 UTC
 <!--END_SECTION:waka-->
 
 
