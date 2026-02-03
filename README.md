@@ -102,6 +102,8 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2037%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.55%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -116,6 +118,45 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+🌆 Daytime                1073 commits        ████████░░░░░░░░░░░░░░░░░   30.57 % 
+🌃 Evening                1064 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌙 Night                  919 commits         ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Thursday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Friday                   567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Sunday                   529 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -133,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:59:33 UTC
+ Last Updated on 03/02/2026 19:26:15 UTC
 <!--END_SECTION:waka-->
 
 
