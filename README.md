@@ -145,22 +145,16 @@ Sunday                   529 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ███████████████░░░░░░░░░░   61.94 % 
-JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-course-content-frontend  2 hrs 36 mins       ██████████████████░░░░░░░   74.00 % 
-server                   45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-my-react-app             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2026 19:15:27 UTC
+ Last Updated on 10/03/2026 19:13:47 UTC
 <!--END_SECTION:waka-->
 
 
