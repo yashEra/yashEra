@@ -145,17 +145,16 @@ Sunday                   529 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ████████████████████████░   97.98 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-resume                1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2026 20:00:12 UTC
+ Last Updated on 08/05/2026 19:53:03 UTC
 <!--END_SECTION:waka-->
 
 
