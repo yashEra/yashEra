@@ -102,15 +102,13 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2037%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 960.0 kB Used in GitHub's Storage 
+> 📦 960.1 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2026
+> 🏆 78 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -118,45 +116,6 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                1076 commits        ████████░░░░░░░░░░░░░░░░░   30.57 % 
-🌃 Evening                1071 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
-🌙 Night                  919 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   579 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Tuesday                  493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Thursday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   567 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 510 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Sunday                   531 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -174,7 +133,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:39:34 UTC
+ Last Updated on 17/05/2026 19:45:07 UTC
 <!--END_SECTION:waka-->
 
 
