@@ -102,6 +102,8 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2054%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -143,16 +145,18 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 4 mins        ████████████████████████░   94.52 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sams-client              2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,7 +176,7 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:11:33 UTC
+ Last Updated on 19/05/2026 20:12:28 UTC
 <!--END_SECTION:waka-->
 
 
