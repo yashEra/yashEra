@@ -102,7 +102,7 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -110,7 +110,7 @@
 
 > 📦 995.4 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2026
+> 🏆 89 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -145,16 +145,21 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      22 mins             █████████████████████████   100.00 % 
+INI                      34 mins             ████████████░░░░░░░░░░░░░   48.18 % 
+PHP                      22 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+Bash                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Answers                  22 mins             █████████████████████████   100.00 % 
+ITMS-Backend             42 mins             ███████████████░░░░░░░░░░   59.37 % 
+Answers                  22 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+ITMS-Frontend            6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +179,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 21:31:17 UTC
+ Last Updated on 16/06/2026 21:26:16 UTC
 <!--END_SECTION:waka-->
 
 
