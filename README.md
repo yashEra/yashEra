@@ -102,7 +102,7 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,16 +145,19 @@ Sunday                   534 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               15 mins             ██████████████████████░░░   86.04 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              9 mins              ██████████████░░░░░░░░░░░   55.29 % 
+VS Code                  6 mins              █████████░░░░░░░░░░░░░░░░   37.74 % 
+Copilot CLI              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-resume                17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,7 +177,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 19:58:11 UTC
+ Last Updated on 04/07/2026 19:44:38 UTC
 <!--END_SECTION:waka-->
 
 
