@@ -102,28 +102,77 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.94%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2014%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 999.1 kB Used in GitHub's Storage 
+> 📦 999.3 kB Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2026
+> 🏆 166 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌆 Daytime                1108 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+🌃 Evening                1125 commits        ████████░░░░░░░░░░░░░░░░░   30.88 % 
+🌙 Night                  941 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   600 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Tuesday                  512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Thursday                 508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Friday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Sunday                   555 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+PHP                      43 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
+TypeScript               42 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+
+🔥 Editors: 
+VS Code                  1 hr 6 mins         █████████████░░░░░░░░░░░░   52.82 % 
+Claude Code              59 mins             ████████████░░░░░░░░░░░░░   47.18 % 
+
+🐱‍💻 Projects: 
+ITMS-Frontend            1 hr 13 mins        ██████████████░░░░░░░░░░░   57.82 % 
+ITMS-Backend             31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+my-resume                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+💻 Operating System: 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
-TypeScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   35.62 % 
+TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 
 
@@ -133,7 +182,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:55:21 UTC
+ Last Updated on 25/07/2026 19:42:31 UTC
 <!--END_SECTION:waka-->
 
 
