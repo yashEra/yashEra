@@ -102,15 +102,15 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 999.3 kB Used in GitHub's Storage 
+> 📦 999.4 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 174 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -121,21 +121,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-🌆 Daytime                1108 commits        ████████░░░░░░░░░░░░░░░░░   30.41 % 
-🌃 Evening                1125 commits        ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌙 Night                  941 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+🌞 Morning                469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌆 Daytime                1108 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌃 Evening                1127 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌙 Night                  947 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   600 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Tuesday                  512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Thursday                 508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Friday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   555 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Monday                   603 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Tuesday                  512 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Wednesday                358 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Thursday                 508 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Saturday                 541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Sunday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 ```
 
 
@@ -145,24 +145,25 @@ Sunday                   555 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      43 mins             █████████░░░░░░░░░░░░░░░░   34.48 % 
-TypeScript               42 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               2 hrs 45 mins       ███████████████░░░░░░░░░░   58.93 % 
+PHP                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████░░░░░░░░░░░░   52.82 % 
-Claude Code              59 mins             ████████████░░░░░░░░░░░░░   47.18 % 
+Claude Code              2 hrs 43 mins       ███████████████░░░░░░░░░░   58.49 % 
+VS Code                  1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   41.51 % 
 
 🐱‍💻 Projects: 
-ITMS-Frontend            1 hr 13 mins        ██████████████░░░░░░░░░░░   57.82 % 
-ITMS-Backend             31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-my-resume                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+examination-portal-uwu-fr2 hrs 22 mins       █████████████░░░░░░░░░░░░   50.87 % 
+ITMS-Frontend            1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.06 % 
+ITMS-Backend             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+my-resume                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +183,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:42:31 UTC
+ Last Updated on 26/07/2026 19:44:00 UTC
 <!--END_SECTION:waka-->
 
 
