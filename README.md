@@ -147,49 +147,49 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
-TypeScript               3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Java                     2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+JavaScript               6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.04 % 
+Java                     2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+TypeScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Java Properties          43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 34 mins      ███████████████████████░░   91.29 % 
-VS Code                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Claude Code              12 hrs 36 mins      ████████████████████████░   94.04 % 
+VS Code                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-sams-client              5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
-sams                     4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-examination-portal-uwu-fr3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-emee-creations           1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-ITMS-Frontend            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+sams-client              5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
+sams                     4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.64 % 
+emee-creations           1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+examination-portal-uwu-fr56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+ITMS-Frontend            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 💻 Operating System: 
-Windows                  15 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (96.71%)
+⏱ AI Coding Time: 13 hrs 7 mins (97.91%)
 
-✍️ 3,041 lines written by AI, 6 lines written by hand (99.8% AI-written)
+✍️ 2,422 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
-🔤 333,820,606 Input Tokens, 452,174 Output Tokens
+🔤 270,144,121 Input Tokens, 333,776 Output Tokens
 
-💵 $1080.04 Estimated AI Cost This Week
+💵 $898.24 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 100 AI Prompts
+🧠 18 AI Sessions, 64 AI Prompts
 
-Sonnet                   2,525 lines         ███████████████████░░░░░░   74.68 % 
-Opus                     856 lines           ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Sonnet                   1,757 lines         █████████████████░░░░░░░░   67.24 % 
+Opus                     856 lines           ████████░░░░░░░░░░░░░░░░░   32.76 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 537 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📄 Detailed Prompter — average 809 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +209,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:43:25 UTC
+ Last Updated on 03/08/2026 20:10:46 UTC
 <!--END_SECTION:waka-->
 
 
