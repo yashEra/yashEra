@@ -147,46 +147,46 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.53 % 
-Java                     3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Other                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Java Properties          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JavaScript               8 hrs 25 mins       ██████████████░░░░░░░░░░░   54.04 % 
+Java                     3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Java Properties          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 26 mins      ████████████████████████░   96.67 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Claude Code              15 hrs 1 min        ████████████████████████░   96.41 % 
+VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-sams-client              7 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
-sams                     6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
-emee-creations           1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-ITMS-Frontend            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+sams-client              7 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.32 % 
+sams                     5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+emee-creations           1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+ITMS-Frontend            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 💻 Operating System: 
-Windows                  17 hrs              █████████████████████████   100.00 % 
+Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 52 mins (99.26%)
+⏱ AI Coding Time: 15 hrs 27 mins (99.19%)
 
-✍️ 4,257 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,186 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 411,215,968 Input Tokens, 464,480 Output Tokens
+🔤 396,949,070 Input Tokens, 426,874 Output Tokens
 
-💵 $1324.30 Estimated AI Cost This Week
+💵 $1277.14 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 90 AI Prompts
+🧠 15 AI Sessions, 70 AI Prompts
 
-Sonnet                   3,466 lines         ████████████████████░░░░░   78.06 % 
-Opus                     974 lines           █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Sonnet                   3,466 lines         ████████████████████░░░░░   79.33 % 
+Opus                     903 lines           █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,102 characters per prompt
+📄 Detailed Prompter — average 1,382 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -208,7 +208,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:09:15 UTC
+ Last Updated on 05/08/2026 20:04:46 UTC
 <!--END_SECTION:waka-->
 
 
