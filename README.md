@@ -102,28 +102,100 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2024%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 29 Private Repositories 
+> 🔑 30 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+🌆 Daytime                1116 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
+🌃 Evening                1139 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌙 Night                  967 commits         ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Tuesday                  514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Thursday                 517 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   576 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Saturday                 558 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+JavaScript               6 hrs 5 mins        █████████████░░░░░░░░░░░░   50.83 % 
+Java                     3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Java Properties          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Docker                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+🔥 Editors: 
+Claude Code              11 hrs 33 mins      ████████████████████████░   96.54 % 
+VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+
+🐱‍💻 Projects: 
+sams-client              6 hrs 40 mins       ██████████████░░░░░░░░░░░   55.77 % 
+sams                     5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
+
+💻 Operating System: 
+Windows                  11 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 58 mins (100.0%)
+
+✍️ 3,205 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 307,758,859 Input Tokens, 272,376 Output Tokens
+
+💵 $953.32 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 40 AI Prompts
+
+Sonnet                   3,305 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,303 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   35.62 % 
-TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   35.14 % 
+TypeScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
@@ -133,7 +205,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:06 UTC
+ Last Updated on 07/08/2026 19:28:38 UTC
 <!--END_SECTION:waka-->
 
 
