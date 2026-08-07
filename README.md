@@ -102,17 +102,13 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2024%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2026
+> 🏆 189 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,77 +116,6 @@
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                476 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                1116 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
-🌃 Evening                1135 commits        ████████░░░░░░░░░░░░░░░░░   30.73 % 
-🌙 Night                  966 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Wednesday                361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Thursday                 517 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Friday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Saturday                 558 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-JavaScript               8 hrs 25 mins       ██████████████░░░░░░░░░░░   54.04 % 
-Java                     3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Java Properties          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-
-🔥 Editors: 
-Claude Code              15 hrs 1 min        ████████████████████████░   96.41 % 
-VS Code                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-
-🐱‍💻 Projects: 
-sams-client              7 hrs 31 mins       ████████████░░░░░░░░░░░░░   48.32 % 
-sams                     5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
-emee-creations           1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-ITMS-Frontend            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-💻 Operating System: 
-Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 27 mins (99.19%)
-
-✍️ 4,186 lines written by AI, 1 lines written by hand (99.98% AI-written)
-
-🔤 396,949,070 Input Tokens, 426,874 Output Tokens
-
-💵 $1277.14 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 70 AI Prompts
-
-Sonnet                   3,466 lines         ████████████████████░░░░░   79.33 % 
-Opus                     903 lines           █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,382 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -208,7 +133,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:04:46 UTC
+ Last Updated on 07/08/2026 00:24:06 UTC
 <!--END_SECTION:waka-->
 
 
