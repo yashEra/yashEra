@@ -102,9 +102,9 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,45 +147,49 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               6 hrs 5 mins        █████████████░░░░░░░░░░░░   50.83 % 
-Java                     3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Java Properties          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Docker                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               48 mins             ████████░░░░░░░░░░░░░░░░░   30.90 % 
+JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Other                    31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Docker                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 33 mins      ████████████████████████░   96.54 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Antigravity Desktop      1 hr 10 mins        ███████████░░░░░░░░░░░░░░   44.67 % 
+Claude Code              1 hr 10 mins        ███████████░░░░░░░░░░░░░░   44.36 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 🐱‍💻 Projects: 
-sams-client              6 hrs 40 mins       ██████████████░░░░░░░░░░░   55.77 % 
-sams                     5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.23 % 
+web-app                  1 hr 25 mins        ██████████████░░░░░░░░░░░   54.32 % 
+sams-client              1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   39.84 % 
+sams                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Windows                  11 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 28 mins (94.01%)
 
-✍️ 3,205 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 100 lines written by AI, 2 lines written by hand (98.04% AI-written)
 
-🔤 307,758,859 Input Tokens, 272,376 Output Tokens
+🔤 22,214,367 Input Tokens, 43,429 Output Tokens
 
-💵 $953.32 Estimated AI Cost This Week
+💵 $379.21 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 40 AI Prompts
+🧠 6 AI Sessions, 57 AI Prompts
 
-Sonnet                   3,305 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   68 lines            █████████████░░░░░░░░░░░░   52.71 % 
+Gemini                   31 lines            ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Antigravity-Desktop      27 lines            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Opus                     3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,303 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.04% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 3.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +209,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:28:38 UTC
+ Last Updated on 08/08/2026 19:08:31 UTC
 <!--END_SECTION:waka-->
 
 
