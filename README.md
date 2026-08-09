@@ -147,49 +147,48 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               48 mins             ████████░░░░░░░░░░░░░░░░░   30.90 % 
-JavaScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Other                    31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Docker                   17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+TypeScript               48 mins             █████████████░░░░░░░░░░░░   52.90 % 
+Other                    28 mins             ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Antigravity Desktop      1 hr 10 mins        ███████████░░░░░░░░░░░░░░   44.67 % 
-Claude Code              1 hr 10 mins        ███████████░░░░░░░░░░░░░░   44.36 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Antigravity Desktop      1 hr 10 mins        ███████████████████░░░░░░   76.47 % 
+VS Code                  19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-web-app                  1 hr 25 mins        ██████████████░░░░░░░░░░░   54.32 % 
-sams-client              1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   39.84 % 
-sams                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+web-app                  1 hr 25 mins        ███████████████████████░░   93.00 % 
+sams                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (94.01%)
+⏱ AI Coding Time: 1 hr 22 mins (89.75%)
 
-✍️ 100 lines written by AI, 2 lines written by hand (98.04% AI-written)
+✍️ 35 lines written by AI, 2 lines written by hand (94.59% AI-written)
 
-🔤 22,214,367 Input Tokens, 43,429 Output Tokens
+🔤 634,060 Input Tokens, 1,020 Output Tokens
 
-💵 $379.21 Estimated AI Cost This Week
+💵 $1.28 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 57 AI Prompts
+🧠 7 AI Sessions, 65 AI Prompts
 
-Sonnet                   68 lines            █████████████░░░░░░░░░░░░   52.71 % 
-Gemini                   31 lines            ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Antigravity-Desktop      27 lines            █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Opus                     3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Gemini                   31 lines            █████████████░░░░░░░░░░░░   50.82 % 
+Antigravity-Desktop      27 lines            ███████████░░░░░░░░░░░░░░   44.26 % 
+Opus                     3 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.04% of written lines came from AI
-📝 Concise Prompter — average 217 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.73% of changed lines were hand-edited
+🤖 AI-Driven — 94.59% of written lines came from AI
+📝 Concise Prompter — average 187 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 7.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +208,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:08:31 UTC
+ Last Updated on 09/08/2026 19:12:30 UTC
 <!--END_SECTION:waka-->
 
 
