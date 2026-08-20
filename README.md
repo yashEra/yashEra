@@ -102,9 +102,9 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.09%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,47 +147,48 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
-PHP                      4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TypeScript               2 hrs 38 mins       ██████████████████░░░░░░░   70.72 % 
+PHP                      49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 27 mins      ████████████████████████░   96.90 % 
-VS Code                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Claude Code              3 hrs 42 mins       █████████████████████████   98.91 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-slnr-client              6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.43 % 
-slnr-server              5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
-ITMS-Frontend            1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+slnr-client              2 hrs 51 mins       ███████████████████░░░░░░   76.39 % 
+slnr-server              48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+wsms-server              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+ITMS-Frontend            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Windows                  13 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 45 mins (98.98%)
+⏱ AI Coding Time: 3 hrs 44 mins (100.0%)
 
-✍️ 13,978 lines written by AI, 31 lines written by hand (99.78% AI-written)
+✍️ 2,789 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,638,319 Input Tokens, 779,500 Output Tokens
+🔤 8,344,688 Input Tokens, 204,292 Output Tokens
 
-💵 $215.04 Estimated AI Cost This Week
+💵 $92.78 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 101 AI Prompts
+🧠 10 AI Sessions, 38 AI Prompts
 
-Opus                     11,341 lines        ████████████████████░░░░░   78.97 % 
-Sonnet                   3,021 lines         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Opus                     2,325 lines         ███████████████████░░░░░░   75.36 % 
+Sonnet                   760 lines           ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📄 Detailed Prompter — average 736 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 916 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +208,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:03:34 UTC
+ Last Updated on 20/08/2026 19:11:40 UTC
 <!--END_SECTION:waka-->
 
 
