@@ -147,49 +147,48 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.46 % 
-PHP                      4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-TypeScript               3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-YAML                     3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+PHP                      2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+YAML                     2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JavaScript               2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 3 mins       █████████████████████████   98.50 % 
-VS Code                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Claude Code              12 hrs 40 mins      ████████████████████████░   97.74 % 
+VS Code                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-wsms-client              8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-wsms-server              6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-slnr-client              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-slnr-server              2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-WSMS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+slnr-client              4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+wsms-server              3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+wsms-client              2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+slnr-server              2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+SLNR                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 Operating System: 
-Windows                  22 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 21 mins (99.85%)
+⏱ AI Coding Time: 12 hrs 55 mins (99.75%)
 
-✍️ 17,305 lines written by AI, 9 lines written by hand (99.95% AI-written)
+✍️ 7,735 lines written by AI, 9 lines written by hand (99.88% AI-written)
 
-🔤 13,624,743 Input Tokens, 1,480,916 Output Tokens
+🔤 5,293,978 Input Tokens, 817,721 Output Tokens
 
-💵 $567.72 Estimated AI Cost This Week
+💵 $281.07 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 149 AI Prompts
+🧠 8 AI Sessions, 96 AI Prompts
 
-Opus                     11,857 lines        █████████████████░░░░░░░░   66.48 % 
-Sonnet                   5,978 lines         ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   5,978 lines         ███████████████████░░░░░░   75.16 % 
+Opus                     1,976 lines         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 1,010 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.88% of written lines came from AI
+📄 Detailed Prompter — average 917 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +208,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:20:48 UTC
+ Last Updated on 31/08/2026 23:00:30 UTC
 <!--END_SECTION:waka-->
 
 
