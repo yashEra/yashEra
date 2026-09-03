@@ -147,45 +147,45 @@ Sunday                   564 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.32 % 
-PHP                      3 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.78 % 
+PHP                      3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 32 mins       █████████████████████████   99.37 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Claude Code              8 hrs 20 mins       █████████████████████████   99.33 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-slnr-client              4 hrs 48 mins       █████████████░░░░░░░░░░░░   50.01 % 
-slnr-server              4 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
-SLNR                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+slnr-server              4 hrs 19 mins       █████████████░░░░░░░░░░░░   51.61 % 
+slnr-client              3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
+SLNR                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Windows                  9 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 33 mins (99.53%)
+⏱ AI Coding Time: 8 hrs 20 mins (99.46%)
 
-✍️ 9,494 lines written by AI, 10 lines written by hand (99.89% AI-written)
+✍️ 9,220 lines written by AI, 10 lines written by hand (99.89% AI-written)
 
-🔤 4,833,636 Input Tokens, 832,927 Output Tokens
+🔤 3,566,955 Input Tokens, 760,833 Output Tokens
 
-💵 $200.93 Estimated AI Cost This Week
+💵 $175.53 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 79 AI Prompts
+🧠 5 AI Sessions, 61 AI Prompts
 
-Sonnet                   9,690 lines         █████████████████████████   100.00 % 
+Sonnet                   9,391 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 1,577 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+📚 Verbose Prompter — average 2,014 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:14:07 UTC
+ Last Updated on 03/09/2026 21:14:07 UTC
 <!--END_SECTION:waka-->
 
 
