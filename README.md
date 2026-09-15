@@ -112,7 +112,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 343 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌆 Daytime                1180 commits        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌃 Evening                1280 commits        ████████░░░░░░░░░░░░░░░░░   31.56 % 
-🌙 Night                  1051 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌞 Morning                545 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                1182 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌃 Evening                1280 commits        ████████░░░░░░░░░░░░░░░░░   31.48 % 
+🌙 Night                  1059 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Tuesday                  572 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                429 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Thursday                 587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Sunday                   583 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Monday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Thursday                 587 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Saturday                 613 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Sunday                   583 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 
@@ -147,47 +147,47 @@ Sunday                   583 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-PHP                      3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
-TypeScript               3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
+PHP                      2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+JavaScript               2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 38 mins      █████████████████████████   98.25 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Claude Code              9 hrs 36 mins       █████████████████████████   99.34 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-wsms-client              3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-slnr-client              2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-slnr-server              2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-wsms-server              1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-portfolio-kamani-mathotaa1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+slnr-client              2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
+slnr-server              2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+wsms-client              1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+portfolio-kamani-mathotaa1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+wsms-server              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Windows                  12 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 51 mins (99.99%)
+⏱ AI Coding Time: 9 hrs 40 mins (99.98%)
 
-✍️ 9,171 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,631 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,714,270 Input Tokens, 713,977 Output Tokens
+🔤 5,603,570 Input Tokens, 566,237 Output Tokens
 
-💵 $219.07 Estimated AI Cost This Week
+💵 $136.88 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 56 AI Prompts
+🧠 10 AI Sessions, 44 AI Prompts
 
-Sonnet                   8,926 lines         ██████████████████████░░░   88.16 % 
-Opus                     1,199 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sonnet                   8,576 lines         █████████████████████████   99.77 % 
+Opus                     20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,235 characters per prompt
+📄 Detailed Prompter — average 1,488 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -209,7 +209,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:59:13 UTC
+ Last Updated on 15/09/2026 21:36:50 UTC
 <!--END_SECTION:waka-->
 
 
