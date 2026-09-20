@@ -112,7 +112,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 351 Contributions in the Year 2026
+> 🏆 352 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-🌆 Daytime                1186 commits        ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-🌃 Evening                1288 commits        ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+🌞 Morning                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+🌆 Daytime                1188 commits        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌃 Evening                1288 commits        ████████░░░░░░░░░░░░░░░░░   31.54 % 
+🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Tuesday                  574 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Wednesday                439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Thursday                 593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Thursday                 593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Friday                   593 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Saturday                 621 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Sunday                   583 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
 
@@ -147,44 +147,38 @@ Sunday                   583 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      1 hr 13 mins        ███████████████████████░░   90.16 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+PHP                      19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 21 mins        █████████████████████████   99.79 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude Code              19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-slnr-server              1 hr 18 mins        ████████████████████████░   96.43 % 
-SLNR                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-portfolio-kamani-mathotaa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-UWU-MIT-MIS-CLIENT       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+slnr-server              19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 21 mins (99.88%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
-✍️ 454 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 378,295 Input Tokens, 61,030 Output Tokens
+🔤 5,298 Input Tokens, 3,072 Output Tokens
 
-💵 $9.04 Estimated AI Cost This Week
+💵 $0.95 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Sonnet                   454 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,558 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -204,7 +198,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:06 UTC
+ Last Updated on 20/09/2026 21:00:23 UTC
 <!--END_SECTION:waka-->
 
 
