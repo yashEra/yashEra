@@ -147,22 +147,47 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               21 mins             ███████████░░░░░░░░░░░░░░   43.71 % 
+Python                   20 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              26 mins             ██████████████░░░░░░░░░░░   54.31 % 
+Codex Vscode             20 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+next-gen                 28 mins             ██████████████░░░░░░░░░░░   57.90 % 
+che                      20 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 49 mins (100.0%)
+
+✍️ 1,219 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 153,714 Input Tokens, 40,544 Output Tokens
+
+💵 $2.38 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+Opus                     876 lines           ██████████████████░░░░░░░   70.47 % 
+GPT                      367 lines           ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +207,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:53:17 UTC
+ Last Updated on 15/10/2026 21:37:54 UTC
 <!--END_SECTION:waka-->
 
 
