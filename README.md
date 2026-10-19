@@ -102,9 +102,9 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.75%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,22 +147,41 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              ██████████████████░░░░░░░   71.86 % 
+JavaScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              ███████████████████░░░░░░   76.64 % 
+Codex Vscode             1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DesignPatternAssignment_I7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (100.0%)
+
+✍️ 280 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 137,615 Input Tokens, 23,090 Output Tokens
+
+💵 $1.36 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+GPT                      281 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,517 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +201,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:58:32 UTC
+ Last Updated on 19/10/2026 22:34:50 UTC
 <!--END_SECTION:waka-->
 
 
