@@ -112,7 +112,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 376 Contributions in the Year 2026
+> 🏆 378 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -123,21 +123,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-🌆 Daytime                1200 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌃 Evening                1311 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+🌞 Morning                570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+🌆 Daytime                1200 commits        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌃 Evening                1311 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   681 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Thursday                 606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 621 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Monday                   681 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Thursday                 610 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Saturday                 621 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
 
 
@@ -147,40 +147,43 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   5 mins              ██████████████████░░░░░░░   71.86 % 
-JavaScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+PHP                      31 mins             █████████████░░░░░░░░░░░░   51.59 % 
+JavaScript               24 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  5 mins              ███████████████████░░░░░░   76.64 % 
-Codex Vscode             1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Codex Vscode             56 mins             ███████████████████████░░   91.00 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 🐱‍💻 Projects: 
-DesignPatternAssignment_I7 mins              █████████████████████████   100.00 % 
+wsms-server              31 mins             █████████████░░░░░░░░░░░░   51.59 % 
+wsms-client              22 mins             █████████░░░░░░░░░░░░░░░░   36.67 % 
+DesignPatternAssignment_I7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (100.0%)
+⏱ AI Coding Time: 1 hr 1 min (100.0%)
 
-✍️ 280 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 371 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 137,615 Input Tokens, 23,090 Output Tokens
+🔤 369,486 Input Tokens, 54,879 Output Tokens
 
-💵 $1.36 Estimated AI Cost This Week
+💵 $4.76 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-GPT                      281 lines           █████████████████████████   100.00 % 
+GPT                      606 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,517 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 755 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -201,7 +204,7 @@ Python                   4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:55:43 UTC
+ Last Updated on 22/10/2026 21:50:57 UTC
 <!--END_SECTION:waka-->
 
 
