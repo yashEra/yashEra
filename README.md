@@ -102,9 +102,9 @@
 <!--END_SECTION:PROFILE-TROPHY--><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -112,7 +112,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -120,71 +120,6 @@
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-🌆 Daytime                1202 commits        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-🌃 Evening                1311 commits        ████████░░░░░░░░░░░░░░░░░   31.63 % 
-🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Wednesday                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Thursday                 610 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 621 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-CSS                      14 mins             █████████████░░░░░░░░░░░░   51.09 % 
-JavaScript               13 mins             ████████████░░░░░░░░░░░░░   48.89 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-Codex Vscode             28 mins             █████████████████████████   99.98 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🐱‍💻 Projects: 
-next-gen                 28 mins             █████████████████████████   99.98 % 
-Practical                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 28 mins (99.98%)
-
-✍️ 68 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 135,095 Input Tokens, 36,580 Output Tokens
-
-💵 $1.87 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-GPT                      76 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 219 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -202,7 +137,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:51:31 UTC
+ Last Updated on 27/10/2026 22:31:02 UTC
 <!--END_SECTION:waka-->
 
 
