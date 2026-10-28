@@ -120,6 +120,74 @@
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                591 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌆 Daytime                1202 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌃 Evening                1311 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌙 Night                  1059 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Tuesday                  602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Wednesday                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Thursday                 610 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Friday                   605 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Saturday                 621 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+JavaScript               25 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+Other                    25 mins             ██████████░░░░░░░░░░░░░░░   38.63 % 
+CSS                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+Codex Vscode             1 hr 5 mins         █████████████████████████   99.99 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+next-gen                 28 mins             ███████████░░░░░░░░░░░░░░   43.57 % 
+cv                       25 mins             ██████████░░░░░░░░░░░░░░░   38.63 % 
+wsms-client              11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Practical                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 5 mins (99.99%)
+
+✍️ 97 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 276,685 Input Tokens, 51,163 Output Tokens
+
+💵 $3.33 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 25 AI Prompts
+
+GPT                      110 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 336 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,7 +205,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:31:02 UTC
+ Last Updated on 28/10/2026 22:47:43 UTC
 <!--END_SECTION:waka-->
 
 
