@@ -147,43 +147,41 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    25 mins             ████████████░░░░░░░░░░░░░   46.99 % 
-CSS                      14 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-JavaScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CSS                      14 mins             █████████████░░░░░░░░░░░░   51.09 % 
+JavaScript               13 mins             ████████████░░░░░░░░░░░░░   48.89 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Codex Vscode             53 mins             █████████████████████████   99.99 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Codex Vscode             28 mins             █████████████████████████   99.98 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-next-gen                 28 mins             █████████████░░░░░░░░░░░░   53.00 % 
-cv                       25 mins             ████████████░░░░░░░░░░░░░   46.99 % 
-Practical                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+next-gen                 28 mins             █████████████████████████   99.98 % 
+Practical                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (99.99%)
+⏱ AI Coding Time: 28 mins (99.98%)
 
 ✍️ 68 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 195,998 Input Tokens, 45,280 Output Tokens
+🔤 135,095 Input Tokens, 36,580 Output Tokens
 
-💵 $2.59 Estimated AI Cost This Week
+💵 $2.52 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 19 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 GPT                      76 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 332 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 219 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -204,7 +202,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yashEra/yashEra/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:56:40 UTC
+ Last Updated on 30/10/2026 22:34:53 UTC
 <!--END_SECTION:waka-->
 
 
